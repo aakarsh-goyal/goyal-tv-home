@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Signal quality under the network name in the split layout's left pane. English only for now. -->
+    <string name="signal_excellent" translatable="false">Excellent signal</string>
+    <string name="signal_good" translatable="false">Good signal</string>
+    <string name="signal_fair" translatable="false">Fair signal</string>
+    <string name="signal_weak" translatable="false">Weak signal</string>
+    <string name="airplay_title" translatable="false">AirPlay</string>
+</resources>

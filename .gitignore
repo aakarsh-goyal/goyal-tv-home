@@ -1,0 +1,11 @@
+# Build output and local machine files
+launcher/.gradle/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+*.apk
+.idea/
+.DS_Store
+# Python tools
+tools/venv/
+__pycache__/
